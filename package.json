@@ -1,0 +1,10 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "author": "Lei Wang <levidcd@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "workspace": [
+    "packages/*"
+  ]
+}
