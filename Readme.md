@@ -17,4 +17,10 @@
 
   `yarn workspaces run <command>` 在所有package中运行指定的命令,若某个package中没有对应的命令则会报错
 
+# 怎么统一配置
+  ## Eslint
+  ## Babel
+
+
+# 手打命令很麻烦，有没有其他方式
 # 是否适用于当前项目
