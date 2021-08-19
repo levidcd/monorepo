@@ -8,8 +8,8 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
-import com404 from "../../shared/components/404.vue";
-
+import { com404 } from "@kitc/shared";
+console.log(com404);
 export default {
   name: "App",
   components: {
