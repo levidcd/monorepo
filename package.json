@@ -4,7 +4,7 @@
   "author": "Lei Wang <levidcd@outlook.com>",
   "license": "MIT",
   "private": true,
-  "workspace": [
+  "workspaces": [
     "packages/*"
   ]
 }
