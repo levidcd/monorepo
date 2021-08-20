@@ -14,16 +14,15 @@ Monorepo 可以在一个仓库里维护多个 package，可统一构建，跨 pa
 
 缺点是因为在同一个仓库里，没法做到完美的权限控制，比如 A 部门要跟 B 部门合作，但是不需要Ｂ部门看到自己的代码，这也是目前版本管理工具都具有的问题
 
-# Monorepo怎么实现
+# Monorepo 怎么实现
 
 - yarn workspace
 
-[yarn workspace](`https://yarn.bootcss.com/`) 是yarn实现的，常用于项目代码的管理
+[yarn workspace](`https://yarn.bootcss.com/`) 是 yarn 实现的，常用于项目代码的管理
 
 - Lerna
 
-[Lerna](`https://github.com/lerna/lerna`) 另一个管理工具，vue,babel,react等都在用，常见于需要发布npm的包的管理中。
-
+[Lerna](`https://github.com/lerna/lerna`) 另一个管理工具，vue,babel,react 等都在用，常见于需要发布 npm 的包的管理中。
 
 # 有没有实例
 
@@ -108,9 +107,9 @@ module.exports = {
 
 全栈项目
 
-管理后台SaaS
+管理后台 SaaS
 
-H5落地页
+H5 落地页
 
 # 参考
 
